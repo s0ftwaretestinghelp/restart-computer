@@ -1,6 +1,6 @@
 # Restart computer
 
-[![Restart computer](gett-detail.png)](https://computersolve.com/restart-computer/)
+[![Restart computer](gett-detail.png)](https://icncomputer.com/restart-computer/)
 
 **Restart computer** - The computer restarts the operating system on the local and remote computers.
 
